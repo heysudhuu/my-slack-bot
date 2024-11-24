@@ -21,7 +21,7 @@ This repository contains the code and resources for building a Slack bot using P
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/my-slack-bot.git
+   git clone https://github.com/heysudhu/my-slack-bot.git
    cd my-slack-bot
 2. **Create a Virtual Environment**
    ```bash
