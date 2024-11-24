@@ -35,4 +35,44 @@ This repository contains the code and resources for building a Slack bot using P
 
    Create a .env file in the root directory and add your Slack API tokens and other necessary configurations.
 5. **Run the bot:**
-   
+   ```bash
+   python src/bot.py
+**Usage**
+  **Add the Bot to Your Slack Workspace:** Follow Slack's instructions to add the bot to your workspace and grant the necessary 
+  permissions.
+
+**Interact with the Bot:** Send messages and commands to the bot in Slack to see it in action.
+
+**Folder Structure**
+  src/: Contains the source code for the bot.
+
+  bot.py: Main script to run the bot.
+
+  config.py: Configuration settings for the bot.
+
+  utils.py: Utility functions used by the bot.
+
+  requirements.txt: Lists the dependencies required for the project.
+
+ **.gitignore:** Specifies files and directories to be ignored by Git.
+
+  **LICENSE:** The license under which the project is distributed.
+
+ **Contributing**
+   Contributions are welcome! Please follow these steps to contribute:
+
+   Fork the repository.
+
+   Create a new branch: git checkout -b feature/your-feature-name.
+
+   Make your changes and commit them: git commit -m 'Add a new feature'.
+
+   Push to the branch: git push origin feature/your-feature-name.
+
+   Open a pull request.
+
+  **License**
+    This project is licensed under the MIT License. See the LICENSE file for details.
+
+  **Contact**
+    For any questions or feedback, feel free to reach out at sudhanshuyaduvanshi12@gmail.com.
